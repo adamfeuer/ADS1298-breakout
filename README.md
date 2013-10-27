@@ -39,10 +39,9 @@ connections. There are also a couple of photos.
 Testing
 =======
 
-software/ads1298_hello_world has a basic test sketch that can establish if the ADS1298 board is connected correctly
-and working. This sketch is based on code from this page:
+The Arduino Due driver software for this board can be found in the ADS129x-tools repository:
 
-http://www.mccauslandcenter.sc.edu/CRNL/tools/ads1298
+https://github.com/adamfeuer/ADS129x-tools
 
 If you have questions, comments, or improvements, I would love to know them!
 
