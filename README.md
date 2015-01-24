@@ -3,6 +3,10 @@ ADS1298-breakout
 
 This is an ADS1298 breakout board. It can also be used with the ADS1294 and ADS1296. 
 
+If you are looking for a full Arduino shield with analog input capability, you might
+be interested in the [HackEEG Shield](https://github.com/adamfeuer/hackeeg-shield) 
+instead. The HackEEG shield is compatible with the ADS1298 or ADS1299.
+
 The ADS1298 is an 8 channel ADC chip with SPI interface, meant for ECG and EEG:
 
 http://www.ti.com/product/ads1298
@@ -39,9 +43,8 @@ connections. There are also a couple of photos.
 Testing
 =======
 
-The Arduino Due driver software for this board can be found in the ADS129x-tools repository:
-
-https://github.com/adamfeuer/ADS129x-tools
+The Arduino Due driver software for this board can be found in the
+[ADS129x-tools](https://github.com/adamfeuer/ADS129x-tools) github repository.
 
 If you have questions, comments, or improvements, I would love to know them!
 
